@@ -11,9 +11,9 @@ study_area:  South Africa
 git_owner:   OHI-Science
 git_repo:    zaf
 git_slug:    OHI-Science/zaf
-app_url:     http://ohi-science.nceas.ucsb.edu/zaf
+app_url:     https://ohi-science.shinyapps.io/zaf_app
 
-default_branch_scenario: subcountry2014/published
+default_branch_scenario: published/subcountry2014
 
 # Jekyll configuration
 
